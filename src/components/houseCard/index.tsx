@@ -1,23 +1,12 @@
+import React from "react";
+import IHouse from "../../models/IHouse";
 import styles from "./assets/css/styles.module.css";
 
-const house = {
-  id: 1,
-  location: "Nəriman Nərimanov",
-  floor: "2/12",
-  rooms: 4,
-  price: 300000,
-  area: 130,
-  images: [
-    "https://images.pexels.com/photos/19050705/pexels-photo-19050705/free-photo-of-windows-of-an-apartment.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "https://images.pexels.com/photos/8082307/pexels-photo-8082307.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "https://images.pexels.com/photos/7587287/pexels-photo-7587287.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "https://images.pexels.com/photos/7587737/pexels-photo-7587737.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-    "https://images.pexels.com/photos/18999120/pexels-photo-18999120/free-photo-of-white-windows-of-a-black-brick-building.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
-  ],
-  tel: "+994 70 878 30 06",
-};
+interface HouseCardProps {
+  house: IHouse;
+}
 
-function HouseCard() {
+const HouseCard: React.FC<HouseCardProps> = ({ house }) => {
   return (
     <>
       <div className={styles.card}>
@@ -31,15 +20,15 @@ function HouseCard() {
             {house.location}
           </p>
           <div className="row align-items-center justify-content-between">
-            <div className={`col col-4 ${styles.detail}`}>
+            <div className={`col col-4 text-center ${styles.detail}`}>
               <i className="bi bi-buildings" />
               {house.floor}
             </div>
-            <div className={`col col-3 ${styles.detail}`}>
+            <div className={`col col-4 text-center ${styles.detail}`}>
               <i className="bi bi-door-open" />
               {house.rooms}
             </div>
-            <div className={`col col-3 ${styles.detail}`}>
+            <div className={`col col-4 text-center ${styles.detail}`}>
               <i className="bi bi-x-diamond" />
               {house.area}
             </div>
@@ -48,6 +37,6 @@ function HouseCard() {
       </div>
     </>
   );
-}
+};
 
 export default HouseCard;

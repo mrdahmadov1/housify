@@ -1,11 +1,11 @@
 import FilterBar from "../../components/filterBar";
-import HouseCard from "../../components/houseCard";
+import HouseList from "../../components/houseList";
 
 function Home() {
   return (
     <>
       <FilterBar />
-      <HouseCard />
+      <HouseList />
     </>
   );
 }
