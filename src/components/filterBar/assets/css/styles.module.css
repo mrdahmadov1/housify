@@ -1,0 +1,33 @@
+.wrapper {
+  background-image: url('../../../../assets/images/bg.webp');
+  background-size: cover;
+  background-position: center;
+  display: grid;
+  place-items: center;
+}
+
+/* .container {} */
+
+.form {
+  background-color: rgb(255, 255, 255, 0.75);
+  border-radius: 4px;
+  font-size: 14px;
+}
+
+.input {
+  border: 1px solid #aeaeae;
+  outline-color: #578fc6;
+  border-radius: 3px;
+  padding: 4px;
+}
+
+.btnSearch {
+  color: #fff;
+  padding: 6px 0 5px;
+  border-radius: 30px;
+  font-weight: 500;
+  background-color: #578fc6;
+  border: none;
+  outline: none;
+  box-shadow: none;
+}
