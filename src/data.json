@@ -1,0 +1,290 @@
+[
+  {
+    "id": 1,
+    "location": "Nəriman Nərimanov",
+    "floor": "2/12",
+    "rooms": 4,
+    "price": 300000,
+    "area": 130,
+    "images": [
+      "https://images.pexels.com/photos/19050705/pexels-photo-19050705/free-photo-of-windows-of-an-apartment.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/8082307/pexels-photo-8082307.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/7587287/pexels-photo-7587287.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/7587737/pexels-photo-7587737.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/18999120/pexels-photo-18999120/free-photo-of-white-windows-of-a-black-brick-building.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "tel": "+994 70 878 30 06"
+  },
+  {
+    "id": 2,
+    "location": "Nizami Gəncəvi",
+    "floor": "3/9",
+    "rooms": 4,
+    "price": 275000,
+    "area": 130,
+    "images": [
+      "https://images.pexels.com/photos/1454805/pexels-photo-1454805.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/533157/pexels-photo-533157.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+      "https://images.pexels.com/photos/4682115/pexels-photo-4682115.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/4221389/pexels-photo-4221389.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/7168075/pexels-photo-7168075.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+    ],
+    "tel": "+994 70 878 30 06"
+  },
+  {
+    "id": 3,
+    "location": "Elmlər Akademiyası",
+    "floor": "12/12",
+    "rooms": 2,
+    "price": 145000,
+    "area": 80,
+    "images": [
+      "https://images.pexels.com/photos/1571458/pexels-photo-1571458.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1571470/pexels-photo-1571470.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/2440471/pexels-photo-2440471.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/189333/pexels-photo-189333.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/2988860/pexels-photo-2988860.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "tel": "+994 70 878 30 06"
+  },
+  {
+    "id": 4,
+    "location": "Şah İsmayıl Xətai",
+    "floor": "4/14",
+    "rooms": 1,
+    "price": 115000,
+    "area": 64,
+    "images": [
+      "https://images.pexels.com/photos/189333/pexels-photo-189333.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/4112601/pexels-photo-4112601.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/509922/pexels-photo-509922.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1457842/pexels-photo-1457842.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "tel": "+994 70 878 30 06"
+  },
+  {
+    "id": 5,
+    "location": "Qara Qarayev",
+    "floor": "14/14",
+    "rooms": 3,
+    "price": 185000,
+    "area": 96,
+    "images": [
+      "https://images.pexels.com/photos/245208/pexels-photo-245208.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/276583/pexels-photo-276583.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/462235/pexels-photo-462235.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/7587737/pexels-photo-7587737.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "https://images.pexels.com/photos/1080696/pexels-photo-1080696.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "tel": "+994 70 878 30 06"
+  },
+  {
+    "id": 6,
+    "location": "Nəriman Nərimanov",
+    "floor": "7/13",
+    "rooms": 4,
+    "price": 600000,
+    "area": 217,
+    "images": [
+      "https://images.pexels.com/photos/3797991/pexels-photo-3797991.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/2079249/pexels-photo-2079249.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/2082087/pexels-photo-2082087.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/2343468/pexels-photo-2343468.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/821357/pexels-photo-821357.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "tel": "+994 70 878 30 06"
+  },
+  {
+    "id": 7,
+    "location": "Azadlıq Prospekti",
+    "floor": "8/10",
+    "rooms": 3,
+    "price": 270000,
+    "area": 140,
+    "images": [
+      "https://images.pexels.com/photos/2263510/pexels-photo-2263510.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/189295/pexels-photo-189295.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/2876787/pexels-photo-2876787.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/3554424/pexels-photo-3554424.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/18999120/pexels-photo-18999120/free-photo-of-white-windows-of-a-black-brick-building.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    ],
+    "tel": "+994 70 878 30 06"
+  },
+  {
+    "id": 8,
+    "location": "Cəfər Cabbarllı",
+    "floor": "12/15",
+    "rooms": 3,
+    "price": 390000,
+    "area": 146,
+    "images": [
+      "https://images.pexels.com/photos/1125135/pexels-photo-1125135.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/2098913/pexels-photo-2098913.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/3767442/pexels-photo-3767442.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/3581751/pexels-photo-3581751.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/5417293/pexels-photo-5417293.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "tel": "+994 70 878 30 06"
+  },
+  {
+    "id": 9,
+    "location": "28 May",
+    "floor": "18/22",
+    "rooms": 3,
+    "price": 480000,
+    "area": 157,
+    "images": [
+      "https://images.pexels.com/photos/13977666/pexels-photo-13977666.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1366879/pexels-photo-1366879.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/271816/pexels-photo-271816.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/462235/pexels-photo-462235.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "tel": "+994 70 878 30 06"
+  },
+  {
+    "id": 10,
+    "location": "Nəriman Nərimanov",
+    "floor": "11/16",
+    "rooms": 3,
+    "price": 235000,
+    "area": 130,
+    "images": [
+      "https://images.pexels.com/photos/1643383/pexels-photo-1643383.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/439227/pexels-photo-439227.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1669799/pexels-photo-1669799.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/2079451/pexels-photo-2079451.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/803908/pexels-photo-803908.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "tel": "+994 70 878 30 06"
+  },
+  {
+    "id": 11,
+    "location": "Cəfər Cabbarllı",
+    "floor": "15/32",
+    "rooms": 4,
+    "price": 835000,
+    "area": 200,
+    "images": [
+      "https://images.pexels.com/photos/1648771/pexels-photo-1648771.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1034584/pexels-photo-1034584.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1571470/pexels-photo-1571470.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1080721/pexels-photo-1080721.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/269218/pexels-photo-269218.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "tel": "+994 70 878 30 06"
+  },
+  {
+    "id": 12,
+    "location": "20 Yanvar",
+    "floor": "8/14",
+    "rooms": 3,
+    "price": 289000,
+    "area": 110,
+    "images": [
+      "https://images.pexels.com/photos/706144/pexels-photo-706144.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/275484/pexels-photo-275484.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/2631746/pexels-photo-2631746.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/189333/pexels-photo-189333.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1571471/pexels-photo-1571471.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "tel": "+994 70 878 30 06"
+  },
+  {
+    "id": 13,
+    "location": "Qara Qarayev",
+    "floor": "10/15",
+    "rooms": 3,
+    "price": 350000,
+    "area": 130,
+    "images": [
+      "https://images.pexels.com/photos/1454805/pexels-photo-1454805.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/2440471/pexels-photo-2440471.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/164595/pexels-photo-164595.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/236692/pexels-photo-236692.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/262048/pexels-photo-262048.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "tel": "+994 70 878 30 06"
+  },
+  {
+    "id": 14,
+    "location": "Gənclik",
+    "floor": "3/16",
+    "rooms": 4,
+    "price": 320000,
+    "area": 141,
+    "images": [
+      "https://images.pexels.com/photos/1428348/pexels-photo-1428348.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1604991/pexels-photo-1604991.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/2079246/pexels-photo-2079246.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1125130/pexels-photo-1125130.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1571467/pexels-photo-1571467.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "tel": "+994 70 878 30 06"
+  },
+  {
+    "id": 15,
+    "location": "Azadlıq Prospekti",
+    "floor": "12/17",
+    "rooms": 2,
+    "price": 195000,
+    "area": 97,
+    "images": [
+      "https://images.pexels.com/photos/277593/pexels-photo-277593.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/2995012/pexels-photo-2995012.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/245219/pexels-photo-245219.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/2121121/pexels-photo-2121121.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/939331/pexels-photo-939331.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "tel": "+994 70 878 30 06"
+  },
+  {
+    "id": 16,
+    "location": "Həzi Aslanov",
+    "floor": "3/16",
+    "rooms": 3,
+    "price": 150000,
+    "area": 100,
+    "images": [
+      "https://images.pexels.com/photos/2062431/pexels-photo-2062431.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/796602/pexels-photo-796602.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/817785/pexels-photo-817785.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1454806/pexels-photo-1454806.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/813692/pexels-photo-813692.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "tel": "+994 70 878 30 06"
+  },
+  {
+    "id": 17,
+    "location": "Nizami Gəncəvi",
+    "floor": "11/17",
+    "rooms": 4,
+    "price": 375000,
+    "area": 160,
+    "images": [
+      "https://images.pexels.com/photos/269252/pexels-photo-269252.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/584399/living-room-couch-interior-room-584399.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/2062426/pexels-photo-2062426.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/271753/pexels-photo-271753.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/115747/pexels-photo-115747.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "tel": "+994 70 878 30 06"
+  },
+  {
+    "id": 18,
+    "location": "28 May",
+    "floor": "9/15",
+    "rooms": 2,
+    "price": 168000,
+    "area": 52,
+    "images": [
+      "https://images.pexels.com/photos/1024359/pexels-photo-1024359.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/1813502/pexels-photo-1813502.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/635041/pexels-photo-635041.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/2724749/pexels-photo-2724749.jpeg?auto=compress&cs=tinysrgb&w=400",
+      "https://images.pexels.com/photos/133919/pexels-photo-133919.jpeg?auto=compress&cs=tinysrgb&w=400"
+    ],
+    "tel": "+994 70 878 30 06"
+  }
+]
