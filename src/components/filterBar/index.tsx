@@ -33,7 +33,6 @@ const FilterBar: React.FC<FilterBarProps> = ({ setFilterValues }) => {
     initialValues,
     validationSchema,
     onSubmit: (values, { resetForm }) => {
-      console.log(values);
       setFilterValues(values);
       resetForm();
     },
