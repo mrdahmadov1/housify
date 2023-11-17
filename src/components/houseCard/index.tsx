@@ -12,12 +12,12 @@ const HouseCard: React.FC<HouseCardProps> = ({ house }) => {
 
   const openModal = () => {
     setIsOpenModal(true);
-    document.body.style.overflow = "hidden"; // body'ye overflow: hidden; eklenir
+    document.body.style.overflow = "hidden";
   };
 
   const closeModal = () => {
     setIsOpenModal(false);
-    document.body.style.overflow = ""; // body'den overflow stilini kaldırır
+    document.body.style.overflow = "";
   };
 
   return (

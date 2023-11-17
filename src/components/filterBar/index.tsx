@@ -1,8 +1,20 @@
+import React from "react";
 import { useFormik } from "formik";
 import * as Yup from "yup";
 import styles from "./assets/css/styles.module.css";
 
-function FilterBar() {
+interface FilterBarProps {
+  setFilterValues: React.Dispatch<
+    React.SetStateAction<{
+      min: string;
+      max: string;
+      rooms: string;
+      floor: string;
+    }>
+  >;
+}
+
+const FilterBar: React.FC<FilterBarProps> = ({ setFilterValues }) => {
   const initialValues = {
     min: "",
     max: "",
@@ -22,6 +34,7 @@ function FilterBar() {
     validationSchema,
     onSubmit: (values, { resetForm }) => {
       console.log(values);
+      setFilterValues(values);
       resetForm();
     },
   });
@@ -88,6 +101,6 @@ function FilterBar() {
       </div>
     </>
   );
-}
+};
 
 export default FilterBar;

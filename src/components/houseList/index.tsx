@@ -1,19 +1,13 @@
-import { db } from "../../utils/firebase";
-import { ref, onValue } from "firebase/database";
+import React from "react";
 import HouseCard from "../houseCard";
-import styles from "./assets/css/styles.module.css";
 import IHouse from "../../models/IHouse";
-import { useState } from "react";
+import styles from "./assets/css/styles.module.css";
 
-function HouseList() {
-  const [houseList, setHouseList] = useState<IHouse[]>([]);
-  const housesRef = ref(db, "houses");
+interface HouseListProps {
+  houseList: IHouse[];
+}
 
-  onValue(housesRef, (snapshot) => {
-    const houses = snapshot.val();
-    !houseList.length && setHouseList(houses);
-  });
-
+const HouseList: React.FC<HouseListProps> = ({ houseList }) => {
   return (
     <>
       <div className={`wrapper ${styles.wrapper}`}>
@@ -27,6 +21,6 @@ function HouseList() {
       </div>
     </>
   );
-}
+};
 
 export default HouseList;
