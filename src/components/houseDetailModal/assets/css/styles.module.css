@@ -1,5 +1,5 @@
 .wrapper {
-  background-color: rgba(0, 0, 0, 0.5);
+  background-color: rgba(0, 0, 0, 0.75);
   height: 100%;
   position: fixed;
   top: 0;
@@ -21,6 +21,7 @@
 
 .header i {
   font-size: 24px;
+  font-weight: 700;
 }
 
 .title+i {
