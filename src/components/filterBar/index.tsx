@@ -51,7 +51,11 @@ const FilterBar: React.FC<FilterBarProps> = ({ setFilterValues }) => {
                 name="min"
                 value={formik.values.min}
                 onChange={formik.handleChange}
-                className={`col col-12 col-sm-5 ${styles.input}`}
+                className={`col col-12 col-sm-5 ${styles.input} ${
+                  formik.touched.min && formik.errors.min
+                    ? styles.invalidInput
+                    : ""
+                }`}
                 type="text"
                 placeholder="Price Min."
               />
@@ -59,7 +63,11 @@ const FilterBar: React.FC<FilterBarProps> = ({ setFilterValues }) => {
                 name="max"
                 value={formik.values.max}
                 onChange={formik.handleChange}
-                className={`col col-12 col-sm-5 ${styles.input}`}
+                className={`col col-12 col-sm-5 ${styles.input} ${
+                  formik.touched.max && formik.errors.max
+                    ? styles.invalidInput
+                    : ""
+                }`}
                 type="text"
                 placeholder="Price Max."
               />
@@ -69,7 +77,11 @@ const FilterBar: React.FC<FilterBarProps> = ({ setFilterValues }) => {
                 name="rooms"
                 value={formik.values.rooms}
                 onChange={formik.handleChange}
-                className={`col col-12 col-sm-5 ${styles.input}`}
+                className={`col col-12 col-sm-5 ${styles.input} ${
+                  formik.touched.rooms && formik.errors.rooms
+                    ? styles.invalidInput
+                    : ""
+                }`}
                 type="text"
                 placeholder="Rooms"
               />
@@ -77,7 +89,11 @@ const FilterBar: React.FC<FilterBarProps> = ({ setFilterValues }) => {
                 name="floor"
                 value={formik.values.floor}
                 onChange={formik.handleChange}
-                className={`col col-12 col-sm-5 ${styles.input}`}
+                className={`col col-12 col-sm-5 ${styles.input} ${
+                  formik.touched.floor && formik.errors.floor
+                    ? styles.invalidInput
+                    : ""
+                }`}
                 type="text"
                 placeholder="Floor"
               />
