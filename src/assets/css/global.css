@@ -2,8 +2,14 @@
 
 :root {}
 
+html {
+  position: relative;
+  cursor: default;
+}
+
 body {
   color: rgb(30, 30, 30);
   font-family: 'Poppins';
   font-size: 16px;
+  overflow: auto;
 }
